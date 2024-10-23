@@ -1,5 +1,4 @@
-﻿using Tyuiu.KushnirS.Sprint2.Task0;
-using Tyuiu.KushnirS.Sprint2.Task0.Lib;
+﻿using Tyuiu.KushnirS.Sprint2.Task0.Lib;
 namespace Tyuiu.KushnirS.Sprint2.Task0
 {
     internal class Program
