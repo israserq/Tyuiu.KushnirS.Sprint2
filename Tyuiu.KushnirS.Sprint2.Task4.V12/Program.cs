@@ -5,7 +5,7 @@ namespace Tyuiu.KushnirS.Sprint2.Task4.V12
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Word!");
         }
     }
 }
